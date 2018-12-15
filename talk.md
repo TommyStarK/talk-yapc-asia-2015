@@ -75,7 +75,7 @@ Uh oh. No tests. Let's write some.
 In `demo_test.go`:
 
 ```go
-package demo
+package main
 
 import (
         "bufio"
